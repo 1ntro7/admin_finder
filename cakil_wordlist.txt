@@ -26,6 +26,7 @@ adm/
 configuration/
 configure/
 websvn/
+rahasia/
 admin/
 admin/account.php
 admin/account.html
@@ -158,6 +159,9 @@ formslogin/
 autologin/
 support_login/
 meta_login/
+@4m!N!$trAt0r/
+sedot/
+dinkes/
 manuallogin/
 simpleLogin/
 loginflat/
@@ -209,6 +213,7 @@ Super-Admin/
 AdminTools/
 cmsadmin/
 SysAdmin2/
+aturdata/
 globes_admin/
 cadmins/
 phpSQLiteAdmin/
